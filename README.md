@@ -1,0 +1,3 @@
+- This is a simple Turtlesim project in ROS2 Humble.
+- Main turtle catches other spawned turtles (controlled by a parameter, which can be disabled)
+- Uses custom interfaces
